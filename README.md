@@ -9,7 +9,7 @@
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@lkshow2">
+    <a href="https://youtube.com/@lkshow2?si=n8Y4Il1-Oa1gQG2T">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
