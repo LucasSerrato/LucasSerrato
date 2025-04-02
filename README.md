@@ -1,8 +1,6 @@
 ## Oi eu sou o Lucas Serrato, criador de conteúdo de programação e tecnologia!👋
 
 
-**LucasSerrato/LucasSerrato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="LK-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
