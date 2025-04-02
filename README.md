@@ -62,6 +62,8 @@
   <a href="https://www.linkedin.com/in/lucasserrato201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
@@ -81,3 +83,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSerrato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
