@@ -3,7 +3,7 @@
 
 Sou um profissional comprometido com a aquisição contínua de conhecimento, sempre em busca de oportunidades para expandir minhas competências e contribuir com soluções tecnológicas inovadoras. 
 
-Minha formação inclui uma série de capacitações em instituições renomadas, como Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle e Cisco. Esses cursos consolidaram minha experiência em tecnologia, programação, desenvolvimento de sistemas, softwares e aplicativos, além de estratégias de gestão e liderança em tecnologia.
+Minha formação inclui uma série de capacitações em instituições renomadas, como Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura e Cisco. Esses cursos consolidaram minha experiência em tecnologia, programação, desenvolvimento de sistemas, softwares e aplicativos, além de estratégias de gestão e liderança em tecnologia.
 
 Possuo proficiência em linguagens e ferramentas tecnológicas amplamente utilizadas no mercado, como HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Git e SQL. Além disso, sou experiente no uso de ambientes de desenvolvimento como VS Code, IntelliJ IDEA, Eclipse IDE e Apache NetBeans, bem como frameworks avançados para aplicações front-end e back-end. Minha experiência também abrange ferramentas de design e edição, como Figma, Adobe Photoshop, Adobe Premiere e Illustrator, garantindo versatilidade no desenvolvimento de projetos interdisciplinares.
 
