@@ -9,6 +9,19 @@ Possuo proficiência em linguagens e ferramentas tecnológicas amplamente utiliz
 
 Meu conhecimento na área inclui o domínio completo do pacote Office, bem como competências em análise de dados e visualização com Power BI. No âmbito de idiomas, possuo inglês em nível intermediário e conhecimentos básicos de espanhol, o que me permite atuar em ambientes multiculturais e colaborar em projetos internacionais.
 
+Hi, I'm Lucas Serrato — Content Creator and Full Stack Developer!👋
+`**Full Stack Developer`**
+
+I am a professional committed to the continuous acquisition of knowledge, always seeking opportunities to expand my skills and contribute to innovative technological solutions.
+
+My educational background includes a series of certifications from renowned institutions such as Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura, and Cisco. These courses have solidified my experience in technology, programming, systems development, software and app creation, as well as management and leadership strategies in tech.
+
+I am proficient in widely used programming languages and tools such as HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Git, and SQL. I am also experienced in using development environments like VS Code, IntelliJ IDEA, Eclipse IDE, and Apache NetBeans, as well as advanced frameworks for both front-end and back-end applications. My experience also includes design and editing tools like Figma, Adobe Photoshop, Adobe Premiere, and Illustrator, providing versatility in developing interdisciplinary projects.
+
+My skill set includes full proficiency in the Microsoft Office Suite, along with data analysis and visualization using Power BI. Regarding languages, I have intermediate-level English and basic knowledge of Spanish, which allows me to work in multicultural environments and collaborate on international projects.
+
+
+
 <p align="left">
     <a href="https://www.youtube.com/@lkshow2?sub_confirmation=1">
         <img 
