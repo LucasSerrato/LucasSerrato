@@ -1,5 +1,6 @@
-
-##I am a Software Engineer, Systems Analyst, and Full Stack Developer, with solid skills in front-end, back-end, databases, information security, and a strong command of programming logic. I am committed to continuous learning and always seek opportunities to expand my skills and contribute to innovative technological solutions.
+## Hi, I'm Lucas Serrato, content creator and Full Stack developer!👋
+**`FullStack Developer`**
+I am a Software Engineer, Systems Analyst, and Full Stack Developer, with solid skills in front-end, back-end, databases, information security, and a strong command of programming logic. I am committed to continuous learning and always seek opportunities to expand my skills and contribute to innovative technological solutions.
 
 My educational background includes certifications from renowned institutions such as Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura, and Cisco, which have strengthened my experience in technology, programming, system and application development, as well as in IT management and leadership strategies.
 
