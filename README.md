@@ -9,7 +9,7 @@ Possuo proficiência em linguagens e ferramentas tecnológicas amplamente utiliz
 
 Meu conhecimento na área inclui o domínio completo do pacote Office, bem como competências em análise de dados e visualização com Power BI. No âmbito de idiomas, possuo inglês em nível intermediário e conhecimentos básicos de espanhol, o que me permite atuar em ambientes multiculturais e colaborar em projetos internacionais.
 
-Hi, I'm Lucas Serrato — Content Creator and Full Stack Developer!👋
+## Hi, I'm Lucas Serrato — Content Creator and Full Stack Developer!👋 
 **`Full Stack Developer`**
 
 I am a professional committed to the continuous acquisition of knowledge, always seeking opportunities to expand my skills and contribute to innovative technological solutions.
