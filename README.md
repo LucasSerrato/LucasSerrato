@@ -1,25 +1,28 @@
+
+##I am a Software Engineer, Systems Analyst, and Full Stack Developer, with solid skills in front-end, back-end, databases, information security, and a strong command of programming logic. I am committed to continuous learning and always seek opportunities to expand my skills and contribute to innovative technological solutions.
+
+My educational background includes certifications from renowned institutions such as Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura, and Cisco, which have strengthened my experience in technology, programming, system and application development, as well as in IT management and leadership strategies.
+
+I am proficient in widely used programming languages and technologies, including HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Git, and SQL. I also have experience with development environments such as VS Code, IntelliJ IDEA, Eclipse IDE, and Apache NetBeans, in addition to modern frameworks for web applications.
+
+My versatility extends to design and editing tools such as Figma (used for interactive prototype creation), Adobe Photoshop, Adobe Premiere, Adobe Illustrator, and Adobe After Effects. I am also familiar with project management and productivity tools like Trello and Notion, contributing to the efficient organization of tasks, schedules, and team workflows.
+
+I am proficient in the Microsoft Office Suite and have skills in data analysis and visualization with Power BI. Regarding languages, I have intermediate English proficiency and basic knowledge of Spanish, which enables me to collaborate in multicultural environments and international projects.
+
+
 ## Oi eu sou o Lucas Serrato, criador de conteúdo e desenvolvedor Full Stack!👋
 **`Desenvolvedor FullStack`**
 
-Sou um profissional comprometido com a aquisição contínua de conhecimento, sempre em busca de oportunidades para expandir minhas competências e contribuir com soluções tecnológicas inovadoras. 
+Sou Engenheiro de Software, Analista de Sistemas e Desenvolvedor Full Stack, com habilidades sólidas em front-end, back-end, bancos de dados, segurança da informação e forte domínio de lógica de programação. Tenho compromisso com a aprendizagem contínua e estou sempre em busca de oportunidades para expandir minhas competências e contribuir com soluções tecnológicas inovadoras.
 
-Minha formação inclui uma série de capacitações em instituições renomadas, como Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura e Cisco. Esses cursos consolidaram minha experiência em tecnologia, programação, desenvolvimento de sistemas, softwares e aplicativos, além de estratégias de gestão e liderança em tecnologia.
+Minha formação inclui capacitações em instituições de excelência, como Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura e Cisco, que consolidaram minha experiência em tecnologia, programação, desenvolvimento de sistemas e aplicações, além de estratégias de gestão e liderança em TI.
 
-Possuo proficiência em linguagens e ferramentas tecnológicas amplamente utilizadas no mercado, como HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Git e SQL. Além disso, sou experiente no uso de ambientes de desenvolvimento como VS Code, IntelliJ IDEA, Eclipse IDE e Apache NetBeans, bem como frameworks avançados para aplicações front-end e back-end. Minha experiência também abrange ferramentas de design e edição, como Figma, Adobe Photoshop, Adobe Premiere e Illustrator, garantindo versatilidade no desenvolvimento de projetos interdisciplinares.
+Possuo proficiência em linguagens e ferramentas amplamente utilizadas no mercado, como HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Git e SQL. Também tenho experiência com ambientes de desenvolvimento como VS Code, IntelliJ IDEA, Eclipse IDE e Apache NetBeans, além de frameworks modernos para aplicações web.
 
-Meu conhecimento na área inclui o domínio completo do pacote Office, bem como competências em análise de dados e visualização com Power BI. No âmbito de idiomas, possuo inglês em nível intermediário e conhecimentos básicos de espanhol, o que me permite atuar em ambientes multiculturais e colaborar em projetos internacionais.
+Minha versatilidade se estende a ferramentas de design e edição, como Figma (utilizado para criação de protótipos interativos), Adobe Photoshop, Adobe Premiere, Adobe Illustrator e Adobe After Effects. Também sou familiarizado com ferramentas de gestão e organização de projetos, como Trello e Notion, contribuindo para a organização eficaz de tarefas, cronogramas e fluxos de trabalho em equipe.
 
-## Hi, I'm Lucas Serrato — Content Creator and Full Stack Developer!👋 
-**`Full Stack Developer`**
-
-I am a professional committed to the continuous acquisition of knowledge, always seeking opportunities to expand my skills and contribute to innovative technological solutions.
-
-My educational background includes a series of certifications from renowned institutions such as Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura, and Cisco. These courses have solidified my experience in technology, programming, systems development, software and app creation, as well as management and leadership strategies in tech.
-
-I am proficient in widely used programming languages and tools such as HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Git, and SQL. I am also experienced in using development environments like VS Code, IntelliJ IDEA, Eclipse IDE, and Apache NetBeans, as well as advanced frameworks for both front-end and back-end applications. My experience also includes design and editing tools like Figma, Adobe Photoshop, Adobe Premiere, and Illustrator, providing versatility in developing interdisciplinary projects.
-
-My skill set includes full proficiency in the Microsoft Office Suite, along with data analysis and visualization using Power BI. Regarding languages, I have intermediate-level English and basic knowledge of Spanish, which allows me to work in multicultural environments and collaborate on international projects.
-
+Domino o pacote Microsoft Office e possuo competências em análise e visualização de dados com Power BI. No campo dos idiomas, tenho inglês em nível intermediário e conhecimentos básicos de espanhol, o que me permite colaborar em projetos internacionais e ambientes multiculturais.
+ 
 
 
 <p align="left">
