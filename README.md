@@ -1,5 +1,4 @@
 ## Hi, I'm Lucas Serrato, content creator and Full Stack developer!👋
-
 **`FullStack Developer`**
 I am a Software Engineer, Systems Analyst, and Full Stack Developer, with solid skills in front-end, back-end, databases, information security, and a strong command of programming logic. I am committed to continuous learning and always seek opportunities to expand my skills and contribute to innovative technological solutions.
 
