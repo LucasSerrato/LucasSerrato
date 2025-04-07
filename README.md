@@ -3,7 +3,7 @@ I am a Software Engineer, Systems Analyst, and Full Stack Developer, with solid 
 
 My educational background includes certifications from renowned institutions such as Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura, and Cisco, which have strengthened my experience in technology, programming, system and application development, as well as in IT management and leadership strategies.
 
-I am proficient in widely used programming languages and technologies, including HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Git, and SQL. I also have experience with development environments such as VS Code, IntelliJ IDEA, Eclipse IDE, and Apache NetBeans, in addition to modern frameworks for web applications.
+I am proficient in widely used programming languages and technologies, including HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Angular, Git, and SQL. I also have experience with development environments such as VS Code, IntelliJ IDEA, Eclipse IDE, and Apache NetBeans, in addition to modern frameworks for web applications.
 
 My versatility extends to design and editing tools such as Figma (used for interactive prototype creation), Adobe Photoshop, Adobe Premiere, Adobe Illustrator, and Adobe After Effects. I am also familiar with project management and productivity tools like Trello and Notion, contributing to the efficient organization of tasks, schedules, and team workflows.
 
@@ -17,7 +17,7 @@ Sou Engenheiro de Software, Analista de Sistemas e Desenvolvedor Full Stack, com
 
 Minha formação inclui capacitações em instituições de excelência, como Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura e Cisco, que consolidaram minha experiência em tecnologia, programação, desenvolvimento de sistemas e aplicações, além de estratégias de gestão e liderança em TI.
 
-Possuo proficiência em linguagens e ferramentas amplamente utilizadas no mercado, como HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Git e SQL. Também tenho experiência com ambientes de desenvolvimento como VS Code, IntelliJ IDEA, Eclipse IDE e Apache NetBeans, além de frameworks modernos para aplicações web.
+Possuo proficiência em linguagens e ferramentas amplamente utilizadas no mercado, como HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Angular, Git e SQL. Também tenho experiência com ambientes de desenvolvimento como VS Code, IntelliJ IDEA, Eclipse IDE e Apache NetBeans, além de frameworks modernos para aplicações web.
 
 Minha versatilidade se estende a ferramentas de design e edição, como Figma (utilizado para criação de protótipos interativos), Adobe Photoshop, Adobe Premiere, Adobe Illustrator e Adobe After Effects. Também sou familiarizado com ferramentas de gestão e organização de projetos, como Trello e Notion, contribuindo para a organização eficaz de tarefas, cronogramas e fluxos de trabalho em equipe.
 
