@@ -91,7 +91,6 @@ Domino o pacote Microsoft Office e possuo competências em análise e visualiza�
 
 ### 📊 Estatísticas:
 
-  />
   <img 
     alt="Top Langs" 
     height="180em" 
