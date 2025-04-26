@@ -91,11 +91,6 @@ Domino o pacote Microsoft Office e possuo competências em análise e visualiza�
 
 ### 📊 Estatísticas:
 
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasSerrato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
