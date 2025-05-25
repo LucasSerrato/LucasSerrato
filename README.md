@@ -33,7 +33,7 @@ Domino o pacote Microsoft Office e possuo competências em análise e visualiza�
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQj6uwsYJiG4Gdszfm3kH-Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://youtube.com/@lkshow2?si=n8Y4Il1-Oa1gQG2T">
+    <a href=",">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
