@@ -1,27 +1,41 @@
 ## Hi, I'm Lucas Serrato, content creator and Full Stack developer!👋
-I am a Software Engineer, Systems Analyst, and Full Stack Developer, with solid skills in front-end, back-end, databases, information security, and a strong command of programming logic. I am committed to continuous learning and always seek opportunities to expand my skills and contribute to innovative technological solutions.
+Dear All,
 
-My educational background includes certifications from renowned institutions such as Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura, and Cisco, which have strengthened my experience in technology, programming, system and application development, as well as in IT management and leadership strategies.
+I have a degree in Systems Analysis and Development, with a solid theoretical and practical foundation in software development, systems development, databases, and systems architecture. Throughout my education and extracurricular experiences, I have developed a multidisciplinary and adaptable profile, focused on solving problems with efficient, innovative, and scalable technological solutions.
 
-I am proficient in widely used programming languages and technologies, including HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Angular, Git, and SQL. I also have experience with development environments such as VS Code, IntelliJ IDEA, Eclipse IDE, and Apache NetBeans, in addition to modern frameworks for web applications.
+My background includes a series of training courses at renowned institutions such as Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, and Cisco. These courses have solidified my experience in technology, programming, systems, software, and application development, as well as technology management and leadership strategies.
 
-My versatility extends to design and editing tools such as Figma (used for interactive prototype creation), Adobe Photoshop, Adobe Premiere, Adobe Illustrator, and Adobe After Effects. I am also familiar with project management and productivity tools like Trello and Notion, contributing to the efficient organization of tasks, schedules, and team workflows.
+I am proficient in widely used languages and technology tools, such as HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Angular, Git, and SQL. Furthermore, I am experienced in using development environments such as VS Code, IntelliJ IDEA, Eclipse IDE, and Apache NetBeans, as well as advanced frameworks for front-end and back-end applications. My experience also encompasses design and editing tools such as Figma, Adobe Photoshop, Adobe Premiere, and Illustrator, ensuring versatility in developing interdisciplinary projects.
 
-I am proficient in the Microsoft Office Suite and have skills in data analysis and visualization with Power BI. Regarding languages, I have intermediate English proficiency and basic knowledge of Spanish, which enables me to collaborate in multicultural environments and international projects.
+My knowledge in this area includes complete mastery of the Microsoft Office suite, as well as data analysis and visualization skills with Power BI. In terms of languages, I have intermediate English and basic Spanish, which allows me to work in multicultural environments and collaborate on international projects.
+
+Throughout my academic and professional career, I have deepened my knowledge of Spring Boot, creating secure and high-performance RESTful APIs, in addition to developing complete applications with React on the front-end. I integrate agile methodologies such as Scrum into my projects, actively participating in sprints, refinements, and continuous delivery. I also maintain familiarity with the Node.js ecosystem, expanding my versatility as a full-stack developer. My GitHub contains projects that demonstrate these skills, reinforcing my technical capabilities for immediate work on modern, collaborative development teams.
+
+Thank you in advance for your attention and I am available for selection processes and interviews. I am ready to contribute to challenging projects, delivering valuable results with commitment, responsibility, and strategic vision.
+
+Sincerely,
+Lucas Serrato
 
 
 ## Oi eu sou o Lucas Serrato, criador de conteúdo e desenvolvedor Full Stack!👋
 **`Desenvolvedor FullStack`**
 
-Sou Engenheiro de Software, Analista de Sistemas e Desenvolvedor Full Stack, com habilidades sólidas em front-end, back-end, bancos de dados, segurança da informação e forte domínio de lógica de programação. Tenho compromisso com a aprendizagem contínua e estou sempre em busca de oportunidades para expandir minhas competências e contribuir com soluções tecnológicas inovadoras.
+Prezados(as),
 
-Minha formação inclui capacitações em instituições de excelência, como Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, Alura e Cisco, que consolidaram minha experiência em tecnologia, programação, desenvolvimento de sistemas e aplicações, além de estratégias de gestão e liderança em TI.
+Sou formado em Análise e Desenvolvimento de Sistemas, com sólida base teórica e prática em desenvolvimento de software, desenvolvimenbto de sistemas, banco de dados e arquitetura de sistemas. Ao longo da minha formação e experiências extracurriculares, construí um perfil multidisciplinar e adaptável, voltado à resolução de problemas com soluções tecnológicas eficientes, inovadoras e escaláveis.
 
-Possuo proficiência em linguagens e ferramentas amplamente utilizadas no mercado, como HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Angular, Git e SQL. Também tenho experiência com ambientes de desenvolvimento como VS Code, IntelliJ IDEA, Eclipse IDE e Apache NetBeans, além de frameworks modernos para aplicações web.
+Minha formação inclui uma série de capacitações em instituições renomadas, como Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle e Cisco. Esses cursos consolidaram minha experiência em tecnologia, programação, desenvolvimento de sistemas, softwares e aplicativos, além de estratégias de gestão e liderança em tecnologia.
 
-Minha versatilidade se estende a ferramentas de design e edição, como Figma (utilizado para criação de protótipos interativos), Adobe Photoshop, Adobe Premiere, Adobe Illustrator e Adobe After Effects. Também sou familiarizado com ferramentas de gestão e organização de projetos, como Trello e Notion, contribuindo para a organização eficaz de tarefas, cronogramas e fluxos de trabalho em equipe.
+Possuo proficiência em linguagens e ferramentas tecnológicas amplamente utilizadas no mercado, como HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Angular, Git e SQL. Além disso, sou experiente no uso de ambientes de desenvolvimento como VS Code, IntelliJ IDEA, Eclipse IDE e Apache NetBeans, bem como frameworks avançados para aplicações front-end e back-end. Minha experiência também abrange ferramentas de design e edição, como Figma, Adobe Photoshop, Adobe Premiere e Illustrator, garantindo versatilidade no desenvolvimento de projetos interdisciplinares.
 
-Domino o pacote Microsoft Office e possuo competências em análise e visualização de dados com Power BI. No campo dos idiomas, tenho inglês em nível intermediário e conhecimentos básicos de espanhol, o que me permite colaborar em projetos internacionais e ambientes multiculturais.
+Meu conhecimento na área inclui o domínio completo do pacote Office, bem como competências em análise de dados e visualização com Power BI. No âmbito de idiomas, possuo inglês em nível intermediário e conhecimentos básicos de espanhol, o que me permite atuar em ambientes multiculturais e colaborar em projetos internacionais.
+
+Durante minha trajetória acadêmica e profissional, venho aprofundando meus conhecimentos em Spring Boot, com a criação de APIs RESTful seguras e performáticas, além do desenvolvimento de aplicações completas com React no front-end. Integro metodologias ágeis como o Scrum em meus projetos, participando ativamente de sprints, refinamentos e entregas contínuas. Também mantenho familiaridade com o ecossistema Node.js, ampliando minha versatilidade como desenvolvedor full stack. Meu GitHub contém projetos demonstrando essas habilidades, reforçando minha capacidade técnica para atuação imediata em times de desenvolvimento modernos e colaborativos.
+
+Desde já, agradeço pela atenção e coloco-me à disposição para processos seletivos e entrevistas. Estou pronto para contribuir com projetos desafiadores, entregando resultados de valor com comprometimento, responsabilidade e visão estratégica.
+
+Atenciosamente,
+Lucas Serrato
  
 
 
