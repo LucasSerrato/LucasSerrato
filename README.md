@@ -208,13 +208,25 @@ Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projet
 <br/>
 <br/>
 
-### 📊 Estatísticas:
+### 📊 Estatísticas do GitHub
 
 <p align="left">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSerrato&layout=compact&theme=tokyonight&langs_count=20"
+    src="https://github-readme-stats.vercel.app/api?username=LucasSerrato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 </p>
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=LucasSerrato&theme=tokyonight"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSerrato&theme=tokyo-night"
+  />
+</p>
+
 
 
