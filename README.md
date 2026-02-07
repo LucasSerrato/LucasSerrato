@@ -1,41 +1,145 @@
-## Hi, I'm Lucas Serrato, content creator and Full Stack developer!👋
-Dear All,
+## 👋 Hi, I'm Lucas Serrato
+**Full Stack Developer | Cybersecurity Postgraduate (Mackenzie) | Content Creator | Systems Analyst**
 
-I have a degree in Systems Analysis and Development, with a solid theoretical and practical foundation in software development, systems development, databases, and systems architecture. Throughout my education and extracurricular experiences, I have developed a multidisciplinary and adaptable profile, focused on solving problems with efficient, innovative, and scalable technological solutions.
+🚀 Full Stack Developer with a degree in **Systems Analysis and Development (SENAC)** and a **Postgraduate Degree in Cybersecurity from Mackenzie**, focused on building **modern, scalable, secure, and well-structured applications**.
 
-My background includes a series of training courses at renowned institutions such as Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle, and Cisco. These courses have solidified my experience in technology, programming, systems, software, and application development, as well as technology management and leadership strategies.
+I am driven by challenges and continuous learning. I have a **multidisciplinary and adaptable profile**, focused on solving real-world problems while delivering **value, performance, security, and high-quality code**.
 
-I am proficient in widely used languages and technology tools, such as HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Angular, Git, and SQL. Furthermore, I am experienced in using development environments such as VS Code, IntelliJ IDEA, Eclipse IDE, and Apache NetBeans, as well as advanced frameworks for front-end and back-end applications. My experience also encompasses design and editing tools such as Figma, Adobe Photoshop, Adobe Premiere, and Illustrator, ensuring versatility in developing interdisciplinary projects.
+---
 
-My knowledge in this area includes complete mastery of the Microsoft Office suite, as well as data analysis and visualization skills with Power BI. In terms of languages, I have intermediate English and basic Spanish, which allows me to work in multicultural environments and collaborate on international projects.
+### 💼 About Me
+- 🎓 Bachelor's degree in **Systems Analysis and Development – SENAC**
+- 🎓 **Postgraduate Degree in Cybersecurity – Mackenzie**
+- 🧠 Strong foundation in **systems architecture, secure REST APIs, databases, web development, and application security**
+- ⚙️ Hands-on experience building **Full Stack applications from scratch to deployment**
+- 🔐 Focus on **security best practices, authentication, authorization, and data protection**
+- 🔄 Experience with **Agile methodologies (Scrum)** and collaborative teamwork
+- 🌍 English (Intermediate) | Spanish (Basic)
 
-Throughout my academic and professional career, I have deepened my knowledge of Spring Boot, creating secure and high-performance RESTful APIs, in addition to developing complete applications with React on the front-end. I integrate agile methodologies such as Scrum into my projects, actively participating in sprints, refinements, and continuous delivery. I also maintain familiarity with the Node.js ecosystem, expanding my versatility as a full-stack developer. My GitHub contains projects that demonstrate these skills, reinforcing my technical capabilities for immediate work on modern, collaborative development teams.
+---
 
-Thank you in advance for your attention and I am available for selection processes and interviews. I am ready to contribute to challenging projects, delivering valuable results with commitment, responsibility, and strategic vision.
+### 🛠️ Tech Stack
+**Front-end**
+- React • Angular • HTML • CSS • JavaScript • TypeScript  
 
-Sincerely,
-Lucas Serrato
+**Back-end**
+- Java (Spring Boot) • Node.js • Python  
 
+**Databases**
+- SQL • MySQL • H2  
 
-## Oi eu sou o Lucas Serrato, criador de conteúdo e desenvolvedor Full Stack!👋
-**`Desenvolvedor FullStack`**
+**Security & Best Practices**
+- Secure RESTful APIs  
+- Authentication & Authorization (JWT, roles, access control)  
+- OWASP Top 10 fundamentals  
+- Secure coding practices  
 
-Prezados(as),
+**Tools & Ecosystem**
+- Git • GitHub • VS Code • IntelliJ IDEA • Eclipse • NetBeans  
+- Power BI • Figma  
 
-Sou formado em Análise e Desenvolvimento de Sistemas, com sólida base teórica e prática em desenvolvimento de software, desenvolvimenbto de sistemas, banco de dados e arquitetura de sistemas. Ao longo da minha formação e experiências extracurriculares, construí um perfil multidisciplinar e adaptável, voltado à resolução de problemas com soluções tecnológicas eficientes, inovadoras e escaláveis.
+---
 
-Minha formação inclui uma série de capacitações em instituições renomadas, como Senai, Senac, FIAP, Sebrae, Fundação Bradesco, Oracle e Cisco. Esses cursos consolidaram minha experiência em tecnologia, programação, desenvolvimento de sistemas, softwares e aplicativos, além de estratégias de gestão e liderança em tecnologia.
+### 📚 Education & Certifications
+- 🎓 **Systems Analysis and Development – SENAC**
+- 🎓 **Postgraduate Degree in Cybersecurity – Mackenzie**
+- 📘 Professional training at:
+  - SENAI • SENAC • FIAP  
+  - Fundação Bradesco • Sebrae  
+  - Oracle • Cisco  
 
-Possuo proficiência em linguagens e ferramentas tecnológicas amplamente utilizadas no mercado, como HTML, CSS, Java, Node.js, JavaScript, TypeScript, Python, React, Angular, Git e SQL. Além disso, sou experiente no uso de ambientes de desenvolvimento como VS Code, IntelliJ IDEA, Eclipse IDE e Apache NetBeans, bem como frameworks avançados para aplicações front-end e back-end. Minha experiência também abrange ferramentas de design e edição, como Figma, Adobe Photoshop, Adobe Premiere e Illustrator, garantindo versatilidade no desenvolvimento de projetos interdisciplinares.
+Focused on **software development, cybersecurity, cloud computing, systems architecture, and IT management**.
 
-Meu conhecimento na área inclui o domínio completo do pacote Office, bem como competências em análise de dados e visualização com Power BI. No âmbito de idiomas, possuo inglês em nível intermediário e conhecimentos básicos de espanhol, o que me permite atuar em ambientes multiculturais e colaborar em projetos internacionais.
+---
 
-Durante minha trajetória acadêmica e profissional, venho aprofundando meus conhecimentos em Spring Boot, com a criação de APIs RESTful seguras e performáticas, além do desenvolvimento de aplicações completas com React no front-end. Integro metodologias ágeis como o Scrum em meus projetos, participando ativamente de sprints, refinamentos e entregas contínuas. Também mantenho familiaridade com o ecossistema Node.js, ampliando minha versatilidade como desenvolvedor full stack. Meu GitHub contém projetos demonstrando essas habilidades, reforçando minha capacidade técnica para atuação imediata em times de desenvolvimento modernos e colaborativos.
+### 🚀 What you'll find on my GitHub
+✔️ Full Stack applications (Front-end + Back-end)  
+✔️ Secure REST APIs with Spring Boot  
+✔️ React applications integrated with back-end services  
+✔️ Security-oriented development practices  
+✔️ Clean, organized, and well-documented code  
 
-Desde já, agradeço pela atenção e coloco-me à disposição para processos seletivos e entrevistas. Estou pronto para contribuir com projetos desafiadores, entregando resultados de valor com comprometimento, responsabilidade e visão estratégica.
+> 💡 Open to **freelance projects, collaborations, junior/trainee/mid-level roles, and technical interviews**.
 
-Atenciosamente,
-Lucas Serrato
+---
+
+📬 **Let’s connect!**  
+Feel free to reach out via LinkedIn or email — I’m always open to new challenges and collaborations.
+
+---
+
+---
+
+## 👋 Oi, eu sou o Lucas Serrato
+**Desenvolvedor Full Stack | Pós-graduado em Cybersegurança (Mackenzie) | Criador de Conteúdo | Analista de Sistemas**
+
+🚀 Desenvolvedor Full Stack formado em **Análise e Desenvolvimento de Sistemas (SENAC)** e **pós-graduado em Cybersegurança pela Universidade Presbiteriana Mackenzie**, com foco na criação de **aplicações modernas, escaláveis, seguras e bem estruturadas**.
+
+Sou movido por desafios e aprendizado contínuo. Possuo um perfil **multidisciplinar e adaptável**, voltado à resolução de problemas reais, entregando **valor, performance, segurança e qualidade de código**.
+
+---
+
+### 💼 Sobre mim
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas – SENAC**
+- 🎓 **Pós-graduação em Cybersegurança – Universidade Presbiteriana Mackenzie**
+- 🧠 Forte base em **arquitetura de sistemas, APIs REST seguras, bancos de dados, desenvolvimento web e segurança da informação**
+- ⚙️ Experiência prática com **aplicações Full Stack do zero ao deploy**
+- 🔐 Foco em **boas práticas de segurança, autenticação, autorização e proteção de dados**
+- 🔄 Vivência com **metodologias ágeis (Scrum)** e trabalho colaborativo
+- 🌍 Inglês intermediário | Espanhol básico
+
+---
+
+### 🛠️ Tech Stack
+**Front-end**
+- React • Angular • HTML • CSS • JavaScript • TypeScript  
+
+**Back-end**
+- Java (Spring Boot) • Node.js • Python  
+
+**Banco de Dados**
+- SQL • MySQL • H2  
+
+**Segurança & Boas Práticas**
+- APIs RESTful seguras  
+- Autenticação e autorização (JWT, controle de acesso)  
+- Fundamentos do OWASP Top 10  
+- Secure Coding  
+
+**Ferramentas & Ecossistema**
+- Git • GitHub • VS Code • IntelliJ IDEA • Eclipse • NetBeans  
+- Power BI • Figma  
+
+---
+
+### 📚 Formação & Certificações
+- 🎓 **Análise e Desenvolvimento de Sistemas – SENAC**
+- 🎓 **Pós-graduação em Cybersegurança – Universidade Presbiteriana Mackenzie**
+- 📘 Capacitações em:
+  - SENAI • SENAC • FIAP  
+  - Fundação Bradesco • Sebrae  
+  - Oracle • Cisco  
+
+Com foco em **desenvolvimento de software, cybersegurança, cloud, arquitetura de sistemas e gestão em TI**.
+
+---
+
+### 🚀 O que você encontra neste GitHub
+✔️ Projetos Full Stack completos  
+✔️ APIs REST seguras com Spring Boot  
+✔️ Aplicações React integradas ao back-end  
+✔️ Código limpo, organizado e documentado  
+✔️ Projetos voltados para aprendizado, prática e aplicações reais  
+
+> 💡 Aberto a **freelances, projetos colaborativos, vagas júnior/trainee/pleno e entrevistas técnicas**.
+
+---
+
+📬 **Vamos conversar?**  
+Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projetos desafiadores.
+
+---
+
  
 
 
