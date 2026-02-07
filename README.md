@@ -45,6 +45,7 @@ I am driven by challenges and continuous learning. I have a **multidisciplinary 
 - 🎓 **Systems Analysis and Development – SENAC**
 - 🎓 **Postgraduate Degree in Cybersecurity – Mackenzie**
 - 📘 **50+ professional courses and certifications** completed at:
+
   - SENAI • SENAC • FIAP  
   - Fundação Bradesco • Sebrae  
   - Oracle • Cisco  
@@ -118,6 +119,7 @@ Sou movido por desafios e aprendizado contínuo. Possuo um perfil **multidiscipl
 - 🎓 **Análise e Desenvolvimento de Sistemas – SENAC**
 - 🎓 **Pós-graduação em Cybersegurança – Universidade Presbiteriana Mackenzie**
 - 📘 **Mais de 50 cursos e certificações** realizados em:
+
   - SENAI • SENAC • FIAP  
   - Fundação Bradesco • Sebrae  
   - Oracle • Cisco  
@@ -147,14 +149,14 @@ Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projet
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQj6uwsYJiG4Gdszfm3kH-Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/ONomadeBrasileiro?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href=",">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCQj6uwsYJiG4Gdszfm3kH-Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/ONomadeBrasileiro?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/LucasSerrato?tab=repositories&sort=stargazers">
