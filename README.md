@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Lucas Serrato
-**Full Stack Developer | Cybersecurity Postgraduate (Mackenzie) | Content Creator | Systems Analyst**
+**Full Stack Developer | Cybersecurity Postgraduate (Mackenzie) | Systems Analyst (Senac)**
 
 🚀 Full Stack Developer with a degree in **Systems Analysis and Development (SENAC)** and a **Postgraduate Degree in Cybersecurity from Mackenzie**, focused on building **modern, scalable, secure, and well-structured applications**.
 
@@ -8,7 +8,7 @@ I am driven by challenges and continuous learning. I have a **multidisciplinary 
 ---
 
 ### 💼 About Me
-- 🎓 Bachelor's degree in **Systems Analysis and Development – SENAC**
+- 🎓 Bachelor's degree in **Systems Analysis and Development – Senac**
 - 🎓 **Postgraduate Degree in Cybersecurity – Mackenzie**
 - 🧠 Strong foundation in **systems architecture, secure REST APIs, databases, web development, and application security**
 - ⚙️ Hands-on experience building **Full Stack applications from scratch to deployment**
