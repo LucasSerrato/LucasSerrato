@@ -212,21 +212,11 @@ Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projet
 
 <p align="left">
   <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=LucasSerrato&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=LucasSerrato&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
   />
-</p>
-
-<p align="left">
   <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=LucasSerrato&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="left">
-  <img
-    alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSerrato&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSerrato&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
   />
 </p>
