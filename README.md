@@ -42,7 +42,7 @@ I am driven by challenges and continuous learning. I have a **multidisciplinary 
 ---
 
 ### 📚 Education & Certifications
-- 🎓 **Systems Analysis and Development – SENAC**
+- 🎓 **Systems Analysis and Development – Senac**
 - 🎓 **Postgraduate Degree in Cybersecurity – Mackenzie**
 - 📘 **50+ professional courses and certifications** completed at:
 
@@ -75,14 +75,14 @@ Feel free to reach out via LinkedIn or email — I’m always open to new challe
 ## 👋 Oi, eu sou o Lucas Serrato
 **Desenvolvedor Full Stack | Pós-graduado em Cybersegurança (Mackenzie) | Analista de Sistemas (Senac)**
 
-🚀 Desenvolvedor Full Stack formado em **Análise e Desenvolvimento de Sistemas (SENAC)** e **pós-graduado em Cybersegurança pela Universidade Presbiteriana Mackenzie**, com foco na criação de **aplicações modernas, escaláveis, seguras e bem estruturadas**.
+🚀 Desenvolvedor Full Stack formado em **Análise e Desenvolvimento de Sistemas (Senac)** e **pós-graduado em Cybersegurança pela Universidade Presbiteriana Mackenzie**, com foco na criação de **aplicações modernas, escaláveis, seguras e bem estruturadas**.
 
 Sou movido por desafios e aprendizado contínuo. Possuo um perfil **multidisciplinar e adaptável**, voltado à resolução de problemas reais, entregando **valor, performance, segurança e qualidade de código**.
 
 ---
 
 ### 💼 Sobre mim
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas – SENAC**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas – Senac**
 - 🎓 **Pós-graduação em Cybersegurança – Universidade Presbiteriana Mackenzie**
 - 📚 Formação complementada por **mais de 50 cursos livres e certificações**
 - 🧠 Forte base em **arquitetura de sistemas, APIs REST seguras, bancos de dados, desenvolvimento web e segurança da informação**
@@ -116,7 +116,7 @@ Sou movido por desafios e aprendizado contínuo. Possuo um perfil **multidiscipl
 ---
 
 ### 📚 Formação & Certificações
-- 🎓 **Análise e Desenvolvimento de Sistemas – SENAC**
+- 🎓 **Análise e Desenvolvimento de Sistemas – Senac**
 - 🎓 **Pós-graduação em Cybersegurança – Universidade Presbiteriana Mackenzie**
 - 📘 **Mais de 50 cursos e certificações** realizados em:
 
@@ -208,15 +208,22 @@ Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projet
 <br/>
 <br/>
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub:
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LucasSerrato&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=LucasSerrato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
+</p>
+
+<p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSerrato&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
+    src="https://streak-stats.demolab.com?user=LucasSerrato&theme=tokyonight"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSerrato&theme=tokyo-night"
   />
 </p>
