@@ -227,6 +227,3 @@ Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projet
     src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSerrato&theme=tokyo-night"
   />
 </p>
-
-
-
