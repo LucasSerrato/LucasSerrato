@@ -10,6 +10,7 @@ I am driven by challenges and continuous learning. I have a **multidisciplinary 
 ### 💼 About Me
 - 🎓 Bachelor's degree in **Systems Analysis and Development – Senac**
 - 🎓 **Postgraduate Degree in Cybersecurity – Mackenzie**
+- 📚 Education complemented by **50+ professional courses and certifications**
 - 🧠 Strong foundation in **systems architecture, secure REST APIs, databases, web development, and application security**
 - ⚙️ Hands-on experience building **Full Stack applications from scratch to deployment**
 - 🔐 Focus on **security best practices, authentication, authorization, and data protection**
@@ -43,12 +44,12 @@ I am driven by challenges and continuous learning. I have a **multidisciplinary 
 ### 📚 Education & Certifications
 - 🎓 **Systems Analysis and Development – SENAC**
 - 🎓 **Postgraduate Degree in Cybersecurity – Mackenzie**
-- 📘 Professional training at:
+- 📘 **50+ professional courses and certifications** completed at:
   - SENAI • SENAC • FIAP  
   - Fundação Bradesco • Sebrae  
   - Oracle • Cisco  
 
-Focused on **software development, cybersecurity, cloud computing, systems architecture, and IT management**.
+Focused on **software development, cybersecurity, cloud computing, systems architecture, IT governance, data, management, and technology leadership**.
 
 ---
 
@@ -71,7 +72,7 @@ Feel free to reach out via LinkedIn or email — I’m always open to new challe
 ---
 
 ## 👋 Oi, eu sou o Lucas Serrato
-**Desenvolvedor Full Stack | Pós-graduado em Cybersegurança (Mackenzie) | Criador de Conteúdo | Analista de Sistemas**
+**Desenvolvedor Full Stack | Pós-graduado em Cybersegurança (Mackenzie) | Analista de Sistemas (Senac)**
 
 🚀 Desenvolvedor Full Stack formado em **Análise e Desenvolvimento de Sistemas (SENAC)** e **pós-graduado em Cybersegurança pela Universidade Presbiteriana Mackenzie**, com foco na criação de **aplicações modernas, escaláveis, seguras e bem estruturadas**.
 
@@ -82,6 +83,7 @@ Sou movido por desafios e aprendizado contínuo. Possuo um perfil **multidiscipl
 ### 💼 Sobre mim
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas – SENAC**
 - 🎓 **Pós-graduação em Cybersegurança – Universidade Presbiteriana Mackenzie**
+- 📚 Formação complementada por **mais de 50 cursos livres e certificações**
 - 🧠 Forte base em **arquitetura de sistemas, APIs REST seguras, bancos de dados, desenvolvimento web e segurança da informação**
 - ⚙️ Experiência prática com **aplicações Full Stack do zero ao deploy**
 - 🔐 Foco em **boas práticas de segurança, autenticação, autorização e proteção de dados**
@@ -115,12 +117,12 @@ Sou movido por desafios e aprendizado contínuo. Possuo um perfil **multidiscipl
 ### 📚 Formação & Certificações
 - 🎓 **Análise e Desenvolvimento de Sistemas – SENAC**
 - 🎓 **Pós-graduação em Cybersegurança – Universidade Presbiteriana Mackenzie**
-- 📘 Capacitações em:
+- 📘 **Mais de 50 cursos e certificações** realizados em:
   - SENAI • SENAC • FIAP  
   - Fundação Bradesco • Sebrae  
   - Oracle • Cisco  
 
-Com foco em **desenvolvimento de software, cybersegurança, cloud, arquitetura de sistemas e gestão em TI**.
+Com foco em **desenvolvimento de software, cybersegurança, cloud computing, governança de TI, dados, gestão e liderança em tecnologia**.
 
 ---
 
@@ -138,9 +140,6 @@ Com foco em **desenvolvimento de software, cybersegurança, cloud, arquitetura d
 📬 **Vamos conversar?**  
 Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projetos desafiadores.
 
----
-
- 
 
 
 <p align="left">
@@ -196,9 +195,9 @@ Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projet
   ##
  
 <div> 
-  <a href="," target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="," target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="," target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@ONomadeBrasileiro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eulucas.sb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/lkshow2" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/CBeeZPcUwx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alfalifeclothes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasserrato201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
