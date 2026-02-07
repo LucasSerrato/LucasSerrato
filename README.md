@@ -149,14 +149,14 @@ Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projet
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/ONomadeBrasileiro?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQj6uwsYJiG4Gdszfm3kH-Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href=",">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/ONomadeBrasileiro?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+           src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCQj6uwsYJiG4Gdszfm3kH-Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/LucasSerrato?tab=repositories&sort=stargazers">
@@ -210,9 +210,8 @@ Entre em contato pelo LinkedIn ou e-mail — será um prazer colaborar em projet
 
 ### 📊 Estatísticas:
 
-  <img 
-    alt="Top Langs" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSerrato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSerrato&layout=compact&theme=tokyonight&langs_count=12&hide_border=true" 
+  alt="Top Languages"
+/>
+
